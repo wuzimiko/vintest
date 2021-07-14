@@ -2,4 +2,4 @@
 layout: default
 ---
 
-<a href="https://wuzimiko.github.io/vintest/expandhover"> hover test </a>
+<a href="https://wuzimiko.github.io/vintest/hover2"> hover 2 </a>
